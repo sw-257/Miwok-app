@@ -1,2 +1,2 @@
-#This is Miwok app
+# This is Miwok app
 The Miwok (also spelled Miwuk, Mi-Wuk, or Me-Wuk) are members of four linguistically related Native American groups indigenous to what is now Northern California, who traditionally spoke one of the Miwok languages in the Utian family. This is an app which tells the translations of some common words of English in Miwok, as well as it can also teach you how to pronounce them.
